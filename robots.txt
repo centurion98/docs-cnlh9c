@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-e0qwfe.gitart.me/sitemap.xml
